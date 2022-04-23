@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AKB_TUGAS1_10119115"
